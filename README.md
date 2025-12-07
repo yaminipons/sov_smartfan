@@ -13,16 +13,6 @@ Calculates Share of Voice (SoV) → which brand is talked about the most
 
 Saves results in JSON and CSV files
 
-📁 **Project Structure**
-project/
-|── google_search_collector.py   # Collects Google search results
-├── sov_calculator.py            # Calculates brand Share of Voice
-├── competitors_list.py          # List of brands to track
-├── google_search_results.json   # Saved search results in json
-├──google_search_results.csv  # Saved search results in csv
-├── requirements.txt
-└── README.md
-
 ⚙️ **How to Set Up**
 1. Install the required libraries
 pip install -r requirements.txt
