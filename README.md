@@ -42,20 +42,20 @@ Brand mentions
 
 Share of Voice (%)
 
-Sentiment count (positive/negative/neutral)
 
 📊 **Example Output**
 Brand Mentions:
-Atomberg: 7
-Havells: 3
-Crompton: 2
-Bajaj: 1
+Atomberg: 1
+Havells: 1
+Crompton: 1
+Usha: 0
 
 Share of Voice:
-Atomberg: 58%
-Havells: 25%
-Crompton: 17%
-Bajaj: 8%
+Atomberg — 33.33%
+Havells — 33.33%
+Crompton — 33.33%
+Usha — 0.00%
+
 
 🛠️ **Tools Used**
 
